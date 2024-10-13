@@ -1,0 +1,33 @@
+[
+ { "id" : 1,
+  "title"  : "2021-Bootcamp full stack developer",
+  "description" : "I learned about full stack web development.",
+"technologyStack": ["React", "JavaScript", "CSS"],
+  "date": "2020-01-01 00:00:00" ,
+  "location" : "Desafío Latam, ARGENTINA"
+  },
+
+ { "id" : 2,
+  "title"  : "2024-Freelance Web Development Projects.",
+  "description" : "Development of a Digital Token website: Collaborated as a Frontend Developer in a freelance project with friends to build an intuitive platform for creating, buying, and selling digital tokens.Development of a Custom E-Commerce Platform Using React for a Local Business: I collaborated on building a responsive e-commerce website for a small, locally owned business using React.",
+  "technologyStack" : ["React", "Java Script", "CSS","HTML"],
+  "date": "2023-01-01 00:00:00" ,
+  "location" : "London, Argentina"
+  },
+
+ { "id" : 3,
+  "title"  : "University of Greenwich",
+  "description" : "Currently doing my final year BSc Computing Information Systems.",
+  "technologyStack" : ["PHP", "Vue.js", "Python", "Agile", "SQL"],
+  "date": "2024-01-01 00:00:00" ,
+  "location" : "University of Greenwich"
+  },
+
+ { "id" : 4,
+  "title"  : "To be continued..",
+  "description" : "Looking forward to new steps in my career",
+  "technologyStack" : [],
+  "date": "2024-01-01 00:00:00" ,
+  "location" : ""
+  }
+]

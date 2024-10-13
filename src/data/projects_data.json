@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Kanbas Board",
+    "description": "Kanbas Board is a task management application developed with React, JavaScript and CSS. Based on the Kanban methodology, it allows users to organise and move tasks between columns, making it easy to visualise the progress of projects. With an intuitive and responsive interface, it improves productivity by simplifying task management.",
+    "technologyStack": ["React", "CSS", "HTML"],
+    "liveDemoUrl": "https://kanbasbysebastian.netlify.app/",
+      "imageUrl" : "pro-kanbas.png"
+  },
+  {
+    "id": 2,
+    "title": "pro-movies.png",
+    "description": "An interactive application designed to explore and discover information about a wide variety of films. Using The Movie Database (TMDb) API, users can search for movies, get details such as synopsis, cast, ratings and more. The app is developed with React and Vite, ensuring a fast and fluid user experience.",
+    "technologyStack": ["Node.js", "Express", "MongoDB"],
+    "liveDemoUrl": "https://searchmovie-bysebastian.netlify.app/",
+   "imageUrl":"pro-movies.png"
+  }
+]
